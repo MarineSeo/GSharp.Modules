@@ -1,0 +1,1000 @@
+[000] Scourge                                 unit\zerg\avenger.grp                            85 frames
+[001] Scourge Shadow                          unit\zerg\avenger.grp                            85 frames
+[002] Scourge Birth                           unit\zerg\zavBirth.grp                            7 frames
+[003] Scourge Death                           unit\zerg\zavDeath.grp                            1 frames
+[004] Scourge Explosion                       unit\zerg\zavExplo.grp                            9 frames
+[005] Broodling                               unit\zerg\brood.grp                             204 frames
+[006] Broodling Shadow                        unit\zerg\zbrShad.grp                           204 frames
+[007] Broodling Remnants                      unit\zerg\zbrDeath.grp                            5 frames
+[008] Infested Terran                         unit\zerg\bugguy.grp                            246 frames
+[009] Infested Terran Shadow                  unit\zerg\zbgShad.grp                           238 frames
+[010] Infested Terran Explosion               unit\thingy\zbgExplo.grp                         10 frames
+[011] Guardian Cocoon                         unit\zerg\cocoon.grp                             23 frames
+[012] Guardian Cocoon Shadow                  unit\zerg\cocoon.grp                             23 frames
+[013] Defiler                                 unit\zerg\defiler.grp                           289 frames
+[014] Defiler Shadow                          unit\zerg\defiler.grp                           289 frames
+[015] Defiler Birth                           unit\zerg\zdebirth.grp                            7 frames
+[016] Defiler Remnants                        unit\zerg\zdeDeath.grp                            6 frames
+[017] Drone                                   unit\zerg\drone.grp                             391 frames
+[018] Drone Shadow                            unit\zerg\drone.grp                             391 frames
+[019] Drone Birth                             unit\zerg\zdrbirth.grp                            7 frames
+[020] Drone Remnants                          unit\zerg\zdrDeath.grp                            5 frames
+[021] Egg                                     unit\zerg\egg.grp                                24 frames
+[022] Egg Shadow                              unit\zerg\zegShad.grp                            30 frames
+[023] Egg Spawn                               unit\zerg\zegspawn.grp                            5 frames
+[024] Egg Remnants                            unit\zerg\zegDeath.grp                           12 frames
+[025] Guardian                                unit\zerg\guardian.grp                          119 frames
+[026] Guardian Shadow                         unit\zerg\guardian.grp                          119 frames
+[027] Guardian Birth                          unit\zerg\cocoon.grp                             23 frames
+[028] Guardian Death                          unit\zerg\zguDeath.grp                            1 frames
+[029] Hydralisk                               unit\zerg\hydra.grp                             297 frames
+[030] Hydralisk Shadow                        unit\zerg\zhyShad.grp                           297 frames
+[031] Hydralisk Birth                         unit\zerg\zhybirth.grp                            7 frames
+[032] Hydralisk Remnants                      unit\zerg\zhyDeath.grp                            4 frames
+[033] Infested Kerrigan                       unit\zerg\uikerr.grp                            272 frames
+[034] Infested Kerrigan Shadow                unit\zerg\uikShad.grp                           272 frames
+[035] Needle Spines                           unit\thingy\spooge.grp                          119 frames
+[036] Larva                                   unit\zerg\larva.grp                              85 frames
+[037] Larva Remnants                          unit\zerg\zlaDeath.grp                            9 frames
+[038] Mutalisk                                unit\zerg\mutalid.grp                            85 frames
+[039] Mutalisk Shadow                         unit\zerg\mutalid.grp                            85 frames
+[040] Mutalisk Birth                          unit\zerg\zmubirth.grp                            7 frames
+[041] Mutalisk Death                          unit\zerg\zmuDeath.grp                            1 frames
+[042] Overlord                                unit\zerg\overlord.grp                           68 frames
+[043] Overlord Shadow                         unit\zerg\overlord.grp                           68 frames
+[044] Overlord Birth                          unit\zerg\zovBirth.grp                            7 frames
+[045] Overlord Death                          unit\zerg\zovDeath.grp                            1 frames
+[046] Queen                                   unit\zerg\queen.grp                             187 frames
+[047] Queen Shadow                            unit\zerg\queen.grp                             187 frames
+[048] Queen Death                             unit\zerg\zquDeath.grp                            1 frames
+[049] Queen Birth                             unit\zerg\zquBirth.grp                            7 frames
+[050] Ultralisk                               unit\zerg\ultra.grp                             265 frames
+[051] Ultralisk Shadow                        unit\zerg\zulShad.grp                           255 frames
+[052] Ultralisk Birth                         unit\zerg\zulbirth.grp                            7 frames
+[053] Ultralisk Remnants                      unit\zerg\zulDeath.grp                            5 frames
+[054] Zergling                                unit\zerg\zergling.grp                          296 frames
+[055] Zergling Shadow                         unit\zerg\zzeShad.grp                           289 frames
+[056] Zergling Birth                          unit\zerg\zzebirth.grp                            7 frames
+[057] Zergling Remnants                       unit\zerg\zzeDeath.grp                            5 frames
+[058] Zerg Air Death Explosion (Large)        unit\thingy\zAirDthL.grp                          8 frames
+[059] Zerg Air Death Explosion (Small)        unit\thingy\zAirDthS.grp                          8 frames
+[060] Zerg Building Explosion                 unit\thingy\zBldDthS.grp                         12 frames
+[061] Cerebrate                               unit\zerg\UCereb.grp                              5 frames
+[062] Cerebrate Shadow                        unit\zerg\zucShad.grp                             5 frames
+[063] Infested Command Center                 unit\terran\control.grp                           6 frames
+[064] Spawning Pool                           unit\zerg\chrysal.grp                             4 frames
+[065] Spawning Pool Shadow                    unit\zerg\zchShad.grp                             4 frames
+[066] Evolution Chamber                       unit\zerg\cerebrat.grp                            3 frames
+[067] Evolution Chamber Shadow                unit\zerg\zceShad.grp                             3 frames
+[068] Creep Colony                            unit\zerg\fcolony.grp                             4 frames
+[069] Creep Colony Shadow                     unit\zerg\zfcShad.grp                             4 frames
+[070] Hatchery                                unit\zerg\hatchery.grp                            6 frames
+[071] Hatchery Shadow                         unit\zerg\zhaShad.grp                             5 frames
+[072] Hive                                    unit\Zerg\Hive.grp                                5 frames
+[073] Hive Shadow                             unit\zerg\zhiShad.grp                             4 frames
+[074] Lair                                    unit\zerg\Lair.grp                                5 frames
+[075] Lair Shadow                             unit\zerg\zlrShad.grp                             4 frames
+[076] Sunken Colony                           unit\zerg\Lurker.grp                             34 frames
+[077] Sunken Colony Shadow                    unit\zerg\zluShad.grp                            34 frames
+[078] Mature Chrysalis                        unit\neutral\kerrChry.grp                         4 frames
+[079] Mature Chrysalis Shadow                 unit\neutral\nkoShad.grp                          4 frames
+[080] Greater Spire                           unit\zerg\MutaCham.grp                            4 frames
+[081] Greater Spire Shadow                    unit\zerg\zmcShad.grp                             3 frames
+[082] Defiler Mound                           unit\zerg\Mutapit.grp                             4 frames
+[083] Defiler Mound Shadow                    unit\zerg\zmhShad.grp                             4 frames
+[084] Queen's Nest                            unit\zerg\nest.grp                                4 frames
+[085] Queen Nest Shadow                       unit\zerg\zneShad.grp                             6 frames
+[086] Nydus Canal                             unit\zerg\NydusPit.grp                            5 frames
+[087] Nydus Canal Shadow                      unit\zerg\znyShad.grp                             4 frames
+[088] Overmind With Shell                     unit\zerg\Over1.grp                               4 frames
+[089] Overmind Remnants                       unit\zerg\Over2.grp                               4 frames
+[090] Overmind Without Shell                  unit\zerg\Over2.grp                               4 frames
+[091] Ultralisk Cavern                        unit\zerg\RCluster.grp                            3 frames
+[092] Ultralisk Cavern Shadow                 unit\zerg\zrcShad.grp                             3 frames
+[093] Extractor                               unit\zerg\Extract.grp                             4 frames
+[094] Extractor Shadow                        unit\zerg\zreShad.grp                            10 frames
+[095] Hydralisk Den                           unit\zerg\Snakey.grp                              3 frames
+[096] Hydralisk Den Shadow                    unit\zerg\zsbShad.grp                             3 frames
+[097] Spire                                   unit\zerg\spire.grp                               4 frames
+[098] Spire Shadow                            unit\zerg\zspShad.grp                             3 frames
+[099] Spore Colony                            unit\zerg\SColony.grp                             4 frames
+[100] Spore Colony Shadow                     unit\zerg\zscShad.grp                             4 frames
+[101] Infested Command Center Overlay         unit\zerg\Infest03.grp                            3 frames
+[102] Zerg Construction (Large)               unit\zerg\ZBuild.grp                             31 frames
+[103] Zerg Building Morph                     unit\zerg\ZBuild.grp                             31 frames
+[104] Zerg Construction (Medium)              unit\zerg\ZBuild.grp                             31 frames
+[105] Zerg Construction (Small)               unit\zerg\ZBuild.grp                             31 frames
+[106] Zerg Building Construction Shadow       unit\zerg\ZBShad.grp                             31 frames
+[107] Zerg Building Spawn (Small)             unit\zerg\zSpawn01.grp                            3 frames
+[108] Zerg Building Spawn (Medium)            unit\zerg\zSpawn02.grp                            3 frames
+[109] Zerg Building Spawn (Large)             unit\zerg\zSpawn03.grp                            3 frames
+[110] Zerg Building Rubble (Small)            unit\thingy\ZRubbleS.grp                          4 frames
+[111] Zerg Building Rubble (Large)            unit\thingy\ZRubbleL.grp                          4 frames
+[112] Carrier                                 unit\protoss\carrier.grp                         17 frames
+[113] Carrier Shadow                          unit\protoss\carrier.grp                         17 frames
+[114] Carrier Engines                         unit\thingy\pcaGlow.grp                          17 frames
+[115] Carrier Warp Flash                      unit\protoss\carrier.grp                         17 frames
+[116] Interceptor                             unit\protoss\Intercep.grp                        34 frames
+[117] Interceptor Shadow                      unit\protoss\Intercep.grp                        34 frames
+[118] Shuttle                                 unit\protoss\shuttle.grp                         17 frames
+[119] Shuttle Shadow                          unit\protoss\shuttle.grp                         17 frames
+[120] Shuttle Engines                         unit\thingy\pshGlow.grp                          34 frames
+[121] Shuttle Warp Flash                      unit\protoss\shuttle.grp                         17 frames
+[122] Dragoon                                 unit\protoss\dragoon.grp                        415 frames
+[123] Dragoon Shadow                          unit\protoss\pdrShad.grp                        408 frames
+[124] Dragoon Remnants                        unit\protoss\pdrDeath.grp                         5 frames
+[125] Dragoon Warp Flash                      unit\protoss\dragoon.grp                        415 frames
+[126] High Templar                            unit\protoss\templar.grp                        296 frames
+[127] High Templar Shadow                     unit\protoss\pteShad.grp                        289 frames
+[128] High Templar Warp Flash                 unit\protoss\templar.grp                        296 frames
+[129] Dark Templar (Hero)                     unit\protoss\dtemplar.grp                       306 frames
+[130] Arbiter                                 unit\protoss\arbiter.grp                         34 frames
+[131] Arbiter Shadow                          unit\protoss\arbiter.grp                         34 frames
+[132] Arbiter Engines                         unit\thingy\pabGlow.grp                          68 frames
+[133] Arbiter Warp Flash                      unit\protoss\arbiter.grp                         34 frames
+[134] Archon Energy                           unit\protoss\archon.grp                          27 frames
+[135] Archon Being                            unit\protoss\archonT.grp                        238 frames
+[136] Archon Swirl                            unit\protoss\archonT2.grp                        15 frames
+[137] Probe                                   unit\protoss\probe.grp                           17 frames
+[138] Probe Shadow                            unit\protoss\probe.grp                           17 frames
+[139] Probe Warp Flash                        unit\protoss\probe.grp                           17 frames
+[140] Scout                                   unit\protoss\scout.grp                           34 frames
+[141] Scout Shadow                            unit\protoss\scout.grp                           34 frames
+[142] Scout Engines                           unit\thingy\pscGlow.grp                          34 frames
+[143] Scout Warp Flash                        unit\protoss\scout.grp                           34 frames
+[144] Reaver                                  unit\protoss\trilob.grp                         153 frames
+[145] Reaver Shadow                           unit\protoss\ptrShad.grp                        153 frames
+[146] Reaver Warp Flash                       unit\protoss\trilob.grp                         153 frames
+[147] Scarab                                  unit\protoss\sapper.grp                          17 frames
+[148] Observer                                unit\protoss\witness.grp                         17 frames
+[149] Observer Shadow                         unit\protoss\witness.grp                         17 frames
+[150] Observer Warp Flash                     unit\protoss\witness.grp                         17 frames
+[151] Zealot                                  unit\protoss\zealot.grp                         228 frames
+[152] Zealot Shadow                           unit\protoss\pzeShad.grp                        221 frames
+[153] Zealot Death                            unit\protoss\zealot.grp                         228 frames
+[154] Zealot Warp Flash                       unit\protoss\zealot.grp                         228 frames
+[155] Templar Archives                        unit\protoss\archives.grp                         2 frames
+[156] Templar Archives Warp Flash             unit\protoss\archives.grp                         2 frames
+[157] Templar Archives Shadow                 unit\protoss\pacShad.grp                          1 frames
+[158] Assimilator                             unit\protoss\assim.grp                            1 frames
+[159] Assimilator Warp Flash                  unit\protoss\assim.grp                            1 frames
+[160] Assimilator Shadow                      unit\protoss\pasShad.grp                          1 frames
+[161] Observatory                             unit\protoss\beacon.grp                           1 frames
+[162] Observatory Warp Flash                  unit\protoss\beacon.grp                           1 frames
+[163] Observatory Shadow                      unit\protoss\pbeShad.grp                          1 frames
+[164] Citadel of Adun                         unit\protoss\citadel.grp                          1 frames
+[165] Citadel of Adun Warp Flash              unit\protoss\citadel.grp                          1 frames
+[166] Citadel of Adun Shadow                  unit\protoss\pciShad.grp                          1 frames
+[167] Forge                                   unit\protoss\forge.grp                            1 frames
+[168] Forge Overlay                           unit\protoss\forgeT.grp                           3 frames
+[169] Forge Warp Flash                        unit\protoss\forge.grp                            1 frames
+[170] Forge Shadow                            unit\protoss\pfoShad.grp                          4 frames
+[171] Gateway                                 unit\protoss\gateway.grp                          1 frames
+[172] Gateway Warp Flash                      unit\protoss\gateway.grp                          1 frames
+[173] Gateway Shadow                          unit\protoss\pgaShad.grp                          1 frames
+[174] Cybernetics Core                        unit\protoss\gencore.grp                          1 frames
+[175] Cybernetics Core Warp Flash             unit\protoss\gencore.grp                          1 frames
+[176] Cybernetics Core Overlay                unit\protoss\gencoreT.grp                         2 frames
+[177] Cybernetics Core Shadow                 unit\protoss\pgcShad.grp                          1 frames
+[178] Khaydarin Crystal Formation             unit\neutral\Khyad01.grp                          1 frames
+[179] Nexus                                   unit\protoss\nexus.grp                            1 frames
+[180] Nexus Warp Flash                        unit\protoss\nexus.grp                            1 frames
+[181] Nexus Overlay                           unit\protoss\pneGlow.grp                          5 frames
+[182] Nexus Shadow                            unit\protoss\pneShad.grp                          1 frames
+[183] Photon Cannon                           unit\protoss\photon.grp                           4 frames
+[184] Photon Cannon Shadow                    unit\protoss\ppbShad.grp                          4 frames
+[185] Photon Cannon Warp Flash                unit\protoss\photon.grp                           4 frames
+[186] Arbiter Tribunal                        unit\protoss\prism.grp                            1 frames
+[187] Arbiter Tribunal Warp Flash             unit\protoss\prism.grp                            1 frames
+[188] Arbiter Tribunal Shadow                 unit\protoss\pauShad.grp                          1 frames
+[189] Pylon                                   unit\protoss\pylon.grp                            1 frames
+[190] Pylon Warp Flash                        unit\protoss\pylon.grp                            1 frames
+[191] Pylon Shadow                            unit\protoss\ppyShad.grp                          1 frames
+[192] Robotics Facility                       unit\protoss\robotic.grp                         20 frames
+[193] Robotics Facility Warp Flash            unit\protoss\robotic.grp                         20 frames
+[194] Robotics Facility Shadow                unit\protoss\proShad.grp                          1 frames
+[195] Shield Battery                          unit\protoss\sbattery.grp                         1 frames
+[196] Shield Battery Overlay                  unit\protoss\pbaGlow.grp                          3 frames
+[197] Shileld Battery Warp Flash              unit\protoss\sbattery.grp                         1 frames
+[198] Shield Battery Shadow                   unit\protoss\pbaShad.grp                          5 frames
+[199] Stargate                                unit\protoss\stargate.grp                         1 frames
+[200] Stargate Overlay                        unit\protoss\psgGlow.grp                          2 frames
+[201] Stargate Warp Flash                     unit\protoss\stargate.grp                         1 frames
+[202] Stargate Shadow                         unit\protoss\psgShad.grp                          1 frames
+[203] Stasis Cell/Prison                      unit\neutral\stasis.grp                           1 frames
+[204] Robotics Support Bay                    unit\protoss\stasis.grp                           1 frames
+[205] Robotics Support Bay Warp Flash         unit\protoss\stasis.grp                           1 frames
+[206] Robotics Support Bay Shadow             unit\protoss\pstShad.grp                          1 frames
+[207] Protoss Temple                          unit\neutral\temple.grp                           1 frames
+[208] Fleet Beacon                            unit\protoss\warp.grp                             1 frames
+[209] Fleet Beacon Warp Flash                 unit\protoss\warp.grp                             1 frames
+[210] Warp Texture                            unit\protoss\texture.grp                         21 frames
+[211] Warp Anchor                             unit\protoss\pb1Glow.grp                         14 frames
+[212] Fleet Beacon Shadow                     unit\protoss\pwaShad.grp                          1 frames
+[213] Explosion1 (Small)                      unit\thingy\tBangS.grp                            9 frames
+[214] Explosion1 (Medium)                     unit\thingy\tBangL.grp                           10 frames
+[215] Explosion (Large)                       unit\thingy\tBangX.grp                           14 frames
+[216] Protoss Building Rubble (Small)         unit\thingy\PRubbleS.grp                          4 frames
+[217] Protoss Building Rubble (Large)         unit\thingy\PRubbleL.grp                          4 frames
+[218] Battlecruiser                           unit\terran\BattleCr.grp                         17 frames
+[219] Battlecruiser Shadow                    unit\terran\BattleCr.grp                         17 frames
+[220] Battlecruiser Engines                   unit\thingy\tbaGlow.grp                          34 frames
+[221] Civilian                                unit\neutral\civilian.grp                       136 frames
+[222] Civilian Shadow                         unit\neutral\nciShad.grp                        136 frames
+[223] Dropship                                unit\terran\dropship.grp                         17 frames
+[224] Dropship Shadow                         unit\terran\dropship.grp                         17 frames
+[225] Dropship Engines                        unit\thingy\tdrGlow.grp                          34 frames
+[226] Firebat                                 unit\terran\firebat.grp                         170 frames
+[227] Firebat Shadow                          unit\terran\tfbShad.grp                         170 frames
+[228] Ghost                                   unit\terran\ghost.grp                           229 frames
+[229] Ghost Shadow                            unit\terran\tghShad.grp                         221 frames
+[230] Ghost Remnants                          unit\terran\tghDeath.grp                          3 frames
+[231] Ghost Death                             unit\terran\ghost.grp                           229 frames
+[232] Nuke Beam                               unit\thingy\NukeBeam.grp                         34 frames
+[233] Nuke Target Dot                         unit\thingy\NukeTarg.grp                          2 frames
+[234] Goliath Base                            unit\terran\goliath.grp                         170 frames
+[235] Goliath Turret                          unit\terran\goliathT.grp                        187 frames
+[236] Goliath Shadow                          unit\terran\tgoShad.grp                         170 frames
+[237] Sarah Kerrigan                          unit\terran\ughost.grp                          221 frames
+[238] Sarah Kerrigan Shadow                   unit\terran\ughShad.grp                         221 frames
+[239] Marine                                  unit\terran\marine.grp                          229 frames
+[240] Marine Shadow                           unit\terran\tmaShad.grp                         221 frames
+[241] Marine Remnants                         unit\terran\tmaDeath.grp                          3 frames
+[242] Marine Death                            unit\terran\marine.grp                          229 frames
+[243] Wraith                                  unit\terran\phoenix.grp                          17 frames
+[244] Wraith Shadow                           unit\terran\phoenix.grp                          17 frames
+[245] Wraith Engines                          unit\thingy\tphGlow.grp                          34 frames
+[246] Scanner Sweep                           unit\terran\marine.grp                          229 frames
+[247] SCV                                     unit\terran\SCV.grp                              51 frames
+[248] SCV Shadow                              unit\terran\SCV.grp                              51 frames
+[249] SCV Glow                                unit\thingy\tscGlow.grp                          68 frames
+[250] Siege Tank (Tank) Base                  unit\terran\tank.grp                             51 frames
+[251] Siege Tank (Tank) Turret                unit\terran\tankt.grp                            17 frames
+[252] Siege Tank (Tank) Base Shadow           unit\terran\ttaShad.grp                          51 frames
+[253] Siege Tank (Siege) Base                 unit\terran\stank.grp                             6 frames
+[254] Siege Tank (Siege) Turret               unit\terran\stankt.grp                          102 frames
+[255] Siege Tank (Siege) Base Shadow          unit\terran\tstShad.grp                           6 frames
+[256] Vulture                                 unit\terran\Vulture.grp                          17 frames
+[257] Vulture Shadow                          unit\terran\Vulture.grp                          17 frames
+[258] Spider Mine                             unit\terran\Spider.grp                           12 frames
+[259] Spider Mine Shadow                      unit\terran\tsmShad.grp                          12 frames
+[260] Science Vessel (Base)                   unit\terran\wessel.grp                            1 frames
+[261] Science Vessel (Turret)                 unit\terran\wesselt.grp                          17 frames
+[262] Science Vessel Shadow                   unit\terran\tveShad.grp                           1 frames
+[263] Terran Academy                          unit\terran\Academy.grp                           2 frames
+[264] Academy Overlay                         unit\terran\AcademyT.grp                          1 frames
+[265] Academy Shadow                          unit\terran\tacShad.grp                           3 frames
+[266] Barracks                                unit\terran\TBarrack.grp                          9 frames
+[267] Barracks Shadow                         unit\terran\tbrShad.grp                          10 frames
+[268] Armory                                  unit\terran\chemlab.grp                           2 frames
+[269] Armory Overlay                          unit\terran\chemlabT.grp                          3 frames
+[270] Armory Shadow                           unit\terran\tclShad.grp                           3 frames
+[271] Comsat Station                          unit\terran\ComSat.grp                            2 frames
+[272] Comsat Station Connector                unit\terran\ComSatC.grp                           4 frames
+[273] Comsat Station Overlay                  unit\terran\ComSatT.grp                          10 frames
+[274] Comsat Station Shadow                   unit\terran\tcsShad.grp                           3 frames
+[275] Command Center                          unit\terran\control.grp                           6 frames
+[276] Command Center Overlay                  unit\terran\controlT.grp                          1 frames
+[277] Command Center Shadow                   unit\terran\tccShad.grp                           6 frames
+[278] Supply Depot                            unit\terran\Depot.grp                             2 frames
+[279] Supply Depot Overlay                    unit\terran\DepotT.grp                           12 frames
+[280] Supply Depot Shadow                     unit\terran\tdeShad.grp                           3 frames
+[281] Control Tower                           unit\terran\DryDocks.grp                          2 frames
+[282] Control Tower Connector                 unit\terran\DryDockC.grp                          5 frames
+[283] Control Tower Overlay                   unit\terran\DryDockT.grp                          1 frames
+[284] Control Tower Shadow                    unit\terran\tddShad.grp                           3 frames
+[285] Factory                                 unit\terran\factory.grp                           7 frames
+[286] Factory Overlay                         unit\terran\factoryT.grp                          3 frames
+[287] Factory Shadow                          unit\terran\tfaShad.grp                           8 frames
+[288] Covert Ops                              unit\terran\GeneLab.grp                           2 frames
+[289] Covert Ops Connector                    unit\terran\GeneLabC.grp                          5 frames
+[290] Covert Ops Overlay                      unit\terran\GeneLabT.grp                          1 frames
+[291] Covert Ops Shadow                       unit\terran\tglShad.grp                           3 frames
+[292] Ion Cannon                              unit\neutral\ion.grp                              1 frames
+[293] Machine Shop                            unit\terran\machines.grp                          5 frames
+[294] Machine Shop Connector                  unit\terran\machineC.grp                          4 frames
+[295] Machine Shop Shadow                     unit\terran\tmsShad.grp                           5 frames
+[296] Missile Turret (Base)                   unit\terran\missile.grp                           3 frames
+[297] Missile Turret (Turret)                 unit\terran\missileT.grp                         34 frames
+[298] Missile Turret (Base) Shadow            unit\terran\tmiShad.grp                           3 frames
+[299] Crashed Batlecruiser                    unit\neutral\Cbattle.grp                          1 frames
+[300] Crashed Battlecruiser Shadow            unit\neutral\cbaShad.grp                          1 frames
+[301] Physics Lab                             unit\terran\physics.grp                           7 frames
+[302] Physics Lab Connector                   unit\terran\physicsC.grp                          5 frames
+[303] Physics Lab Shadow                      unit\terran\tplShad.grp                           8 frames
+[304] Bunker                                  unit\terran\PillBox.grp                           2 frames
+[305] Bunker Shadow                           unit\terran\tpbShad.grp                           3 frames
+[306] Bunker Overlay                          unit\terran\PillBoxT.grp                         17 frames
+[307] Refinery                                unit\terran\refinery.grp                          5 frames
+[308] Refinery Shadow                         unit\terran\treShad.grp                           5 frames
+[309] Science Facility                        unit\terran\research.grp                          6 frames
+[310] Science Facility Overlay                unit\terran\ResearcT.grp                          1 frames
+[311] Science Facility Shadow                 unit\terran\trlShad.grp                           7 frames
+[312] Nuclear Silo                            unit\terran\nukesilo.grp                          2 frames
+[313] Nuclear Silo Connector                  unit\terran\NukeSilC.grp                          5 frames
+[314] Nuclear Silo Overlay                    unit\terran\NukeSilT.grp                          1 frames
+[315] Nuclear Silo Shadow                     unit\terran\tnsShad.grp                           2 frames
+[316] Nuclear Missile                         unit\terran\nukemiss.grp                         17 frames
+[317] Nuclear Missile Shadow                  unit\terran\nukemiss.grp                         17 frames
+[318] Nuke Hit                                unit\thingy\NukeHit.grp                          26 frames
+[319] Starport                                unit\terran\starport.grp                          6 frames
+[320] Starport Overlay                        unit\terran\StarpoT.grp                           3 frames
+[321] Starport Shadow                         unit\terran\tspShad.grp                           7 frames
+[322] Engineering Bay                         unit\terran\weaponpl.grp                          6 frames
+[323] Engineering Bay Overlay                 unit\terran\weaponpT.grp                          6 frames
+[324] Engineering Bay Shadow                  unit\terran\twpShad.grp                           6 frames
+[325] Terran Construction (Large)             unit\terran\TBldLrg.grp                           3 frames
+[326] Terran Construction (Large) Shadow      unit\terran\tb2Shad.grp                           3 frames
+[327] Terran Construction (Medium)            unit\terran\tBldMed.grp                           3 frames
+[328] Terran Construction (Medium) Shadow     unit\terran\tb3Shad.grp                           3 frames
+[329] Addon Construction                      unit\terran\TBldSml.grp                           3 frames
+[330] Terran Construction (Small)             unit\terran\TBldSml.grp                           3 frames
+[331] Terran Construction (Small) Shadow      unit\terran\tb1Shad.grp                           3 frames
+[332] Explosion2 (Small)                      unit\thingy\tBangS.grp                            9 frames
+[333] Explosion2 (Medium)                     unit\thingy\tBangL.grp                           10 frames
+[334] Building Explosion (Large)              unit\thingy\tBangX.grp                           14 frames
+[335] Terran Building Rubble (Small)          unit\thingy\RubbleS.grp                           4 frames
+[336] Terran Building Rubble (Large)          unit\thingy\RubbleL.grp                           4 frames
+[337] Dark Swarm                              unit\thingy\Dswarm.grp                           10 frames
+[338] Ragnasaur (Ash)                         unit\neutral\Acritter.grp                       161 frames
+[339] Ragnasaur (Ash) Shadow                  unit\neutral\nacShad.grp                        153 frames
+[340] Rhynadon (Badlands)                     unit\neutral\Bcritter.grp                       195 frames
+[341] Rhynadon (Badlands) Shadow              unit\neutral\nbcShad.grp                        187 frames
+[342] Bengalaas (Jungle)                      unit\neutral\Jcritter.grp                       212 frames
+[343] Bengalaas (Jungle) Shadow               unit\neutral\njcShad.grp                        204 frames
+[344] Vespene Geyser                          unit\neutral\geyser.grp                           8 frames
+[345] Vespene Geyser2                         unit\neutral\geyser.grp                           8 frames
+[346] Vespene Geyser Shadow                   unit\neutral\geyShad.grp                          4 frames
+[347] Mineral Field Type1                     unit\neutral\min01.grp                            4 frames
+[348] Mineral Field Type1 Shadow              unit\neutral\min01Sha.grp                         4 frames
+[349] Mineral Field Type2                     unit\neutral\min02.grp                            4 frames
+[350] Mineral Field Type2 Shadow              unit\neutral\min02Sha.grp                         4 frames
+[351] Mineral Field Type3                     unit\neutral\min03.grp                            4 frames
+[352] Mineral Field Type3 Shadow              unit\neutral\min03Sha.grp                         4 frames
+[353] Independent Starport (Unused)           unit\protoss\scout.grp                           34 frames
+[354] Zerg Beacon                             unit\zerg\zmarker.grp                             1 frames
+[355] Zerg Beacon Overlay                     unit\zerg\zCirGlow.grp                            4 frames
+[356] Terran Beacon                           unit\terran\tMarker.grp                           1 frames
+[357] Terran Beacon Overlay                   unit\terran\tCirGlow.grp                          4 frames
+[358] Protoss Beacon                          unit\protoss\pMarker.grp                          1 frames
+[359] Protoss Beacon Overlay                  unit\protoss\pCirGlow.grp                         4 frames
+[360] Magna Pulse (Unused)                    unit\thingy\eldFire.grp                          17 frames
+[361] Lockdown Field (Small)                  unit\thingy\eldSmall.grp                         14 frames
+[362] Lockdown Field (Medium)                 unit\thingy\eldMed.grp                           14 frames
+[363] Lockdown Field (Large)                  unit\thingy\eldLarge.grp                         14 frames
+[364] Stasis Field Hit                        unit\thingy\esfHit.grp                            9 frames
+[365] Stasis Field (Small)                    unit\thingy\esfSmall.grp                         13 frames
+[366] Stasis Field (Medium)                   unit\thingy\esfSmall.grp                         13 frames
+[367] Stasis Field (Large)                    unit\thingy\esfLarge.grp                         13 frames
+[368] Recharge Shields (Small)                unit\thingy\sbaSmall.grp                          5 frames
+[369] Recharge Shields (Medium)               unit\thingy\sbaSmall.grp                          5 frames
+[370] Recharge Shields (Large)                unit\thingy\sbaLarge.grp                         16 frames
+[371] Defensive Matrix Front (Small)          unit\thingy\edmFronS.grp                          5 frames
+[372] Defensive Matrix Front (Medium)         unit\thingy\edmFronM.grp                          5 frames
+[373] Defensive Matrix Front (Large)          unit\thingy\edmFronL.grp                          5 frames
+[374] Defensive Matrix Back (Small)           unit\thingy\edmBackS.grp                          5 frames
+[375] Defensive Matrix Back (Medium)          unit\thingy\edmBackM.grp                          5 frames
+[376] Defensive Matrix Back (Large)           unit\thingy\edmBackL.grp                          5 frames
+[377] Defensive Matrix Hit (Small)            unit\thingy\edmHitS.grp                           4 frames
+[378] Defensive Matrix Hit (Medium)           unit\thingy\edmHitM.grp                           4 frames
+[379] Defensive Matrix Hit (Large)            unit\thingy\edmHitL.grp                           4 frames
+[380] Irradiate (Small)                       unit\thingy\eradLrg.grp                           6 frames
+[381] Irradiate (Medium)                      unit\thingy\eradLrg.grp                           6 frames
+[382] Irradiate (Large)                       unit\thingy\eradLrg.grp                           6 frames
+[383] Ensnare Cloud                           unit\thingy\Ensnare.grp                          15 frames
+[384] Ensnare Overlay (Small)                 unit\thingy\ensGooS.grp                           4 frames
+[385] Ensnare Overlay (Medium)                unit\thingy\ensGooM.grp                           4 frames
+[386] Ensnare Overlay (Large)                 unit\thingy\ensGooL.grp                           4 frames
+[387] Plague Cloud                            unit\thingy\ebbCloud.grp                         14 frames
+[388] Plague Overlay (Small)                  unit\thingy\ebbHitS.grp                           4 frames
+[389] Plague Overlay (Medium)                 unit\thingy\ebbHitM.grp                           4 frames
+[390] Plague Overlay (Large)                  unit\thingy\ebbHitL.grp                           4 frames
+[391] Recall Field                            unit\thingy\recall.grp                           11 frames
+[392] Flag                                    unit\neutral\Flag.grp                             6 frames
+[393] Young Chrysalis                         unit\neutral\KerrEgg.grp                         17 frames
+[394] Psi Emitter                             unit\neutral\PsiEmit.grp                          7 frames
+[395] Data Disc                               unit\neutral\DataDisk.grp                        17 frames
+[396] Khaydarin Crystal                       unit\neutral\KhChunk.grp                         17 frames
+[397] Mineral Chunk Type1                     unit\neutral\OreChunk.grp                        17 frames
+[398] Mineral Chunk Type2                     unit\neutral\OreChunk.grp                        17 frames
+[399] Protoss Gas Orb Type1                   unit\neutral\GasOrb.grp                          34 frames
+[400] Protoss Gas Orb Type2                   unit\neutral\GasOrb.grp                          34 frames
+[401] Zerg Gas Sac Type1                      unit\neutral\GasSac.grp                          34 frames
+[402] Zerg Gas Sac Type2                      unit\neutral\GasSac.grp                          34 frames
+[403] Terran Gas Tank Type1                   unit\neutral\GasTank.grp                          2 frames
+[404] Terran Gas Tank Type2                   unit\neutral\GasTank.grp                          2 frames
+[405] Mineral Chunk Shadow                    unit\neutral\norShad.grp                         17 frames
+[406] Protoss Gas Orb Shadow                  unit\neutral\ngoShad.grp                         34 frames
+[407] Zerg Gas Sac Shadow                     unit\neutral\ngsShad.grp                         34 frames
+[408] Terran Gas Tank Shadow                  unit\neutral\ngcShad.grp                          2 frames
+[409] Data Disk Shadow (Ground)               unit\neutral\nddShad.grp                          1 frames
+[410] Data Disk Shadow (Carried)              unit\neutral\nddSha2.grp                         17 frames
+[411] Flag Shadow (Ground)                    unit\neutral\nflShad.grp                          1 frames
+[412] Flag Shadow (Carried)                   unit\neutral\nflSha2.grp                          1 frames
+[413] Crystal Shadow (Ground)                 unit\neutral\nkhShad.grp                          1 frames
+[414] Crystal Shadow (Carried)                unit\neutral\nkhSha2.grp                          1 frames
+[415] Young Chrysalis Shadow (Ground)         unit\neutral\nkeShad.grp                          1 frames
+[416] Young Chrysalis Shadow (Carried)        unit\neutral\nkeSha2.grp                         17 frames
+[417] Psi Emitter Shadow (Ground)             unit\neutral\npsShad.grp                          7 frames
+[418] Psi Emitter Shadow (Carried)            unit\neutral\npsSha2.grp                          7 frames
+[419] Acid Spray (Unused)                     unit\thingy\plasma.grp                          136 frames
+[420] Plasma Drip (Unused)                    unit\thingy\PlasDrip.grp                         68 frames
+[421] FlameThrower                            unit\thingy\flamer.grp                          221 frames
+[422] Longbolt/Gemini Missiles Trail          unit\thingy\smoke.grp                             8 frames
+[423] Burrowing Dust                          unit\thingy\bDust.grp                             7 frames
+[424] Shield Overlay                          unit\thingy\pshield.grp                          68 frames
+[425] Small Explosion (Unused)                unit\thingy\explo2.grp                           10 frames
+[426] Double Explosion                        unit\thingy\dbl_exp.grp                         108 frames
+[427] Phase Disruptor Hit                     unit\thingy\HKexplod.grp                         14 frames
+[428] Nuclear Missile Death                   unit\thingy\small.grp                            10 frames
+[429] Spider Mine Death                       unit\thingy\tmnExplo.grp                         10 frames
+[430] Vespene Geyser Smoke1                   unit\thingy\GeySmok1.grp                          8 frames
+[431] Vespene Geyser Smoke2                   unit\thingy\GeySmok2.grp                          8 frames
+[432] Vespene Geyser Smoke3                   unit\thingy\GeySmok3.grp                          8 frames
+[433] Vespene Geyser Smoke4                   unit\thingy\GeySmok4.grp                          8 frames
+[434] Vespene Geyser Smoke5                   unit\thingy\GeySmok5.grp                          8 frames
+[435] Vespene Geyser Smoke1 Overlay           unit\thingy\GeySmoS1.grp                          5 frames
+[436] Vespene Geyser Smoke2 Overlay           unit\thingy\GeySmoS1.grp                          5 frames
+[437] Vespene Geyser Smoke3 Overlay           unit\thingy\GeySmoS1.grp                          5 frames
+[438] Vespene Geyser Smoke4 Overlay           unit\thingy\GeySmoS1.grp                          5 frames
+[439] Vespene Geyser Smoke5 Overlay           unit\thingy\GeySmoS1.grp                          5 frames
+[440] Fragmentation Grenade Hit               unit\thingy\efgHit.grp                            9 frames
+[441] Grenade Shot Smoke                      unit\thingy\GreSmoke.grp                          8 frames
+[442] Anti-Matter Missile Hit                 unit\thingy\HKexplod.grp                         14 frames
+[443] Scarab/Anti-Matter Missile Overlay      unit\thingy\HKTrail.grp                           8 frames
+[444] Scarab Hit                              unit\thingy\psaExplo.grp                         10 frames
+[445] Cursor Marker                           unit\thingy\blackx.grp                            5 frames
+[446] Battlecruiser Attack Overlay            unit\thingy\elbBat.grp                           85 frames
+[447] Burst Lasers Hit                        unit\thingy\elbHit.grp                           10 frames
+[448] Burst Lasers Overlay (Unused)           unit\thingy\elbMuzz.grp                           5 frames
+[449] High Templar Glow                       unit\thingy\pteglow.grp                          68 frames
+[450] Flames1 Type1 (Small)                   unit\thingy\oFireC.grp                           24 frames
+[451] Flames1 Type2 (Small)                   unit\thingy\oFireF.grp                           24 frames
+[452] Flames1 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[453] Flames2 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[454] Flames3 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[455] Flames4 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[456] Flames5 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[457] Flames6 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[458] Bleeding Variant1 Type1 (Small)         unit\thingy\bblood01.grp                         12 frames
+[459] Bleeding Variant1 Type2 (Small)         unit\thingy\bblood02.grp                         12 frames
+[460] Bleeding Variant1 Type3 (Small)         unit\thingy\bblood03.grp                         12 frames
+[461] Bleeding Variant1 Type4 (Small)         unit\thingy\bblood04.grp                         12 frames
+[462] Bleeding Variant2 Type1 (Small)         unit\thingy\bblood01.grp                         12 frames
+[463] Bleeding Variant2 Type2 (Small)         unit\thingy\bblood02.grp                         12 frames
+[464] Bleeding Variant2 Type3 (Small)         unit\thingy\bblood03.grp                         12 frames
+[465] Bleeding Variant2 Type4 (Small)         unit\thingy\bblood04.grp                         12 frames
+[466] Flames2 Type1 (Small)                   unit\thingy\oFireC.grp                           24 frames
+[467] Flames2 Type2 (Small)                   unit\thingy\oFireF.grp                           24 frames
+[468] Flames7 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[469] Flames3 Type1 (Small)                   unit\thingy\oFireC.grp                           24 frames
+[470] Flames3 Type2 (Small)                   unit\thingy\oFireF.grp                           24 frames
+[471] Flames8 Type3 (Small)                   unit\thingy\oFireV.grp                           24 frames
+[472] Flames1 Type1 (Large)                   unit\thingy\oFireC.grp                           24 frames
+[473] Flames1 Type2 (Large)                   unit\thingy\oFireF.grp                           24 frames
+[474] Flames1 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[475] Flames2 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[476] Flames3 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[477] Flames4 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[478] Flames5 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[479] Flames6 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[480] Bleeding Variant1 Type1 (Large)         unit\thingy\bblood01.grp                         12 frames
+[481] Bleeding Variant1 Type2 (Large)         unit\thingy\bblood02.grp                         12 frames
+[482] Bleeding Variant1 Type3 (Large)         unit\thingy\bblood03.grp                         12 frames
+[483] Bleeding Variant1 Type4 (Large)         unit\thingy\bblood04.grp                         12 frames
+[484] Bleeding Variant2 Type1 (Large)         unit\thingy\bblood01.grp                         12 frames
+[485] Bleeding Variant2 Type3 (Large)         unit\thingy\bblood02.grp                         12 frames
+[486] Bleeding Variant3 Type3 (Large)         unit\thingy\bblood03.grp                         12 frames
+[487] Bleeding Variant2 Type4 (Large)         unit\thingy\bblood04.grp                         12 frames
+[488] Flames2 Type1 (Large)                   unit\thingy\oFireC.grp                           24 frames
+[489] Flames2 Type2 (Large)                   unit\thingy\oFireF.grp                           24 frames
+[490] Flames7 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[491] Flames3 Type1 (Large)                   unit\thingy\oFireC.grp                           24 frames
+[492] Flames3 Type2 (Large)                   unit\thingy\oFireF.grp                           24 frames
+[493] Flames8 Type3 (Large)                   unit\thingy\oFireV.grp                           24 frames
+[494] Building Landing Dust Type1             unit\thingy\dust01.grp                           10 frames
+[495] Building Landing Dust Type2             unit\thingy\dust02.grp                            8 frames
+[496] Building Landing Dust Type3             unit\thingy\dust03.grp                           10 frames
+[497] Building Landing Dust Type4             unit\thingy\dust04.grp                            8 frames
+[498] Building Landing Dust Type5             unit\thingy\dust05.grp                            8 frames
+[499] Building Lifting Dust Type1             unit\thingy\dust06.grp                           10 frames
+[500] Building Lifting Dust Type2             unit\thingy\dust07.grp                           10 frames
+[501] Building Lifting Dust Type3             unit\thingy\dust08.grp                           10 frames
+[502] Building Lifting Dust Type4             unit\thingy\dust09.grp                           10 frames
+[503] White Circle                            unit\bullet\circle14.grp                          1 frames
+[504] Needle Spine Hit                        unit\bullet\zspark.grp                            8 frames
+[505] Plasma Drip Hit (Unused)                unit\bullet\PDripHit.grp                          6 frames
+[506] Sunken Colony Tentacle                  unit\bullet\Tentacle.grp                          6 frames
+[507] Venom (Unused Zerg Weapon)              unit\thingy\ep2Fire.grp                          17 frames
+[508] Venom Hit (Unused)                      unit\thingy\etgHit.grp                           13 frames
+[509] Acid Spore                              unit\thingy\ep3Shot.grp                           2 frames
+[510] Acid Spore Hit                          unit\thingy\ep3Burst.grp                         12 frames
+[511] Glave Wurm                              unit\bullet\spores.grp                           10 frames
+[512] Glave Wurm/Seeker Spores Hit            unit\thingy\SporeHit.grp                         10 frames
+[513] Glave Wurm Trail                        unit\thingy\SpoTrail.grp                          4 frames
+[514] Seeker Spores Overlay                   unit\thingy\gSmoke.grp                            7 frames
+[515] Seeker Spores                           unit\bullet\Spore2.grp                            4 frames
+[516] Queen Spell Holder                      unit\bullet\parasite.grp                         17 frames
+[517] Consume                                 unit\thingy\consume.grp                          18 frames
+[518] Guardian Attack Overlay                 unit\thingy\eplMuzz.grp                         102 frames
+[519] Dual Photon Blasters Hit                unit\bullet\pspark.grp                            8 frames
+[520] Particle Beam Hit                       unit\bullet\ephFire.grp                          12 frames
+[521] Anti-Matter Missile                     unit\bullet\hks.grp                              17 frames
+[522] Pulse Cannon                            unit\bullet\blastcan.grp                         17 frames
+[523] Phase Disruptor                         unit\bullet\dragbull.grp                          5 frames
+[524] STA/STS Photon Cannon Overlay           unit\bullet\epbBul.grp                           11 frames
+[525] Psionic Storm                           unit\thingy\psiStorm.grp                         14 frames
+[526] Fusion Cutter Hit                       unit\bullet\scvspark.grp                         10 frames
+[527] Gauss Rifle Hit                         unit\bullet\tspark.grp                          135 frames
+[528] Gemini Missiles                         unit\bullet\gemini.grp                           17 frames
+[529] Lockdown/LongBolt/Hellfire Missile      unit\bullet\missile.grp                          17 frames
+[530] Gemini Missiles Explosion               unit\thingy\ecaHit.grp                           10 frames
+[531] C-10 Canister Rifle Hit                 unit\thingy\ecaHit.grp                           10 frames
+[532] Fragmentation Grenade                   unit\bullet\grenade.grp                           4 frames
+[533] Arclite Shock Cannon Hit                unit\thingy\mushroom.grp                         14 frames
+[534] ATS/ATA Laser Battery                   unit\thingy\elbfire.grp                          17 frames
+[535] Burst Lasers                            unit\thingy\elbfireW.grp                         17 frames
+[536] Siege Tank(Tank) Turret Attack Overlay  unit\thingy\ettFlash.grp                         17 frames
+[537] Siege Tank(Siege) Turret Attack Overlay unit\thingy\esiFire.grp                         119 frames
+[538] Science Vessel Overlay (Part1)          unit\thingy\tveGlowB.grp                          3 frames
+[539] Science Vessel Overlay (Part2)          unit\thingy\tveGlowO.grp                          3 frames
+[540] Science Vessel Overlay (Part3)          unit\thingy\tveGlowW.grp                          3 frames
+[541] Yamato Gun                              unit\bullet\eycBull.grp                          68 frames
+[542] Yamato Gun Trail                        unit\bullet\eycBull.grp                          68 frames
+[543] Yamato Gun Overlay                      unit\thingy\eycBlast.grp                         11 frames
+[544] Yamato Gun Hit                          unit\thingy\eycHit.grp                           14 frames
+[545] Hallucination Hit                       unit\thingy\halmind.grp                          18 frames
+[546] Scanner Sweep Hit                       unit\thingy\eveCast.grp                           8 frames
+[547] Archon Birth (Unused)                   unit\thingy\emsHit.grp                            6 frames
+[548] Psionic Shockwave Hit                   unit\thingy\emsHit.grp                            6 frames
+[549] Archon Beam                             unit\thingy\emsBeam.grp                          68 frames
+[550] Psionic Storm Part1                     unit\thingy\elect02a.grp                          6 frames
+[551] Psionic Storm Part2                     unit\thingy\elect02.grp                           6 frames
+[552] Psionic Storm Part3                     unit\thingy\elect02a.grp                          6 frames
+[553] Psionic Storm Part4                     unit\thingy\elect02.grp                           6 frames
+[554] EMP Shockwave Missile                   unit\bullet\missile.grp                          17 frames
+[555] EMP Shockwave Hit (Part1)               unit\thingy\emp.grp                               7 frames
+[556] EMP Shockwave Hit (Part2)               unit\thingy\empl.grp                              7 frames
+[557] Hallucination Death1                    unit\thingy\ehaMed.grp                           13 frames
+[558] Hallucination Death2                    unit\thingy\ehaMed.grp                           13 frames
+[559] Hallucination Death3                    unit\thingy\ehaMed.grp                           13 frames
+[560] Circle Marker1                          unit\thingy\blackx.grp                            5 frames
+[561] Selection Circle (22pixels)             unit\thingy\o022.grp                              1 frames
+[562] Selection Circle (32pixels)             unit\thingy\o032.grp                              1 frames
+[563] Selection Circle (48pixels)             unit\thingy\o048.grp                              1 frames
+[564] Selection Circle (62pixels)             unit\thingy\o062.grp                              1 frames
+[565] Selection Circle (72pixels)             unit\thingy\o072.grp                              1 frames
+[566] Selection Circle (94pixels)             unit\thingy\o094.grp                              1 frames
+[567] Selection Circle (110pixels)            unit\thingy\o110.grp                              1 frames
+[568] Selection Circle (122pixels)            unit\thingy\o122.grp                              1 frames
+[569] Selection Circle (146pixels)            unit\thingy\o146.grp                              1 frames
+[570] Selection Circle (224pixels)            unit\thingy\o224.grp                              1 frames
+[571] Selection Circle Dashed (22pixels)      unit\thingy\od022.grp                             1 frames
+[572] Selection Circle Dashed (32pixels)      unit\thingy\od032.grp                             1 frames
+[573] Selection Circle Dashed (48pixels)      unit\thingy\od048.grp                             1 frames
+[574] Selection Circle Dashed (62pixels)      unit\thingy\od062.grp                             1 frames
+[575] Selection Circle Dashed (72pixels)      unit\thingy\od072.grp                             1 frames
+[576] Selection Circle Dashed (94pixels)      unit\thingy\od094.grp                             1 frames
+[577] Selection Circle Dashed (110pixels)     unit\thingy\od110.grp                             1 frames
+[578] Selection Circle Dashed (122pixels)     unit\thingy\od122.grp                             1 frames
+[579] Selection Circle Dashed (146pixels)     unit\thingy\od146.grp                             1 frames
+[580] Selection Circle Dashed (224pixels)     unit\thingy\od224.grp                             1 frames
+[581] Circle Marker2                          unit\thingy\blackx.grp                            5 frames
+[582] Map Revealer                            unit\neutral\maprev.grp                           4 frames
+[583] Circle Marker3                          unit\thingy\blackx.grp                            5 frames
+[584] Psi Field1 (Right Upper)                unit\thingy\Juice01.grp                           1 frames
+[585] Psi Field1 (Right Lower)                unit\thingy\Juice02.grp                           1 frames
+[586] Psi Field2 (Left Upper)                 unit\thingy\Juice01.grp                           1 frames
+[587] Psi Field2 (Left Lower)                 unit\thingy\Juice02.grp                           1 frames
+[588] Start Location                          unit\thingy\StartLoc.grp                          1 frames
+[589] 2/38 Ash                                unit\thingy\tileset\AshWorld\rock01.grp           1 frames
+[590] 2/38 Ash Shadow                         unit\thingy\tileset\AshWorld\Rock1Sha.grp         1 frames
+[591] 2/39 Ash                                unit\thingy\tileset\AshWorld\rock02.grp           1 frames
+[592] 2/39 Ash Shadow                         unit\thingy\tileset\AshWorld\Rock2Sha.grp         1 frames
+[593] 2/41 Ash                                unit\thingy\tileset\AshWorld\rock03.grp           1 frames
+[594] 2/41 Ash Shadow                         unit\thingy\tileset\AshWorld\Rock3Sha.grp         1 frames
+[595] 2/40 Ash                                unit\thingy\tileset\AshWorld\rock04.grp           1 frames
+[596] 2/40 Ash Shadow                         unit\thingy\tileset\AshWorld\Rock4Sha.grp         1 frames
+[597] 2/42 Ash                                unit\thingy\tileset\AshWorld\rock05.grp           1 frames
+[598] 2/42 Ash Shadow                         unit\thingy\tileset\AshWorld\Rock5Sha.grp         1 frames
+[599] 2/43 Ash                                unit\thingy\tileset\AshWorld\LALRoc01.grp         1 frames
+[600] 2/44 Ash                                unit\thingy\tileset\AshWorld\LALRoc02.grp         1 frames
+[601] 2/1 Ash                                 unit\thingy\tileset\AshWorld\HASRoc01.grp         1 frames
+[602] 2/4 Ash                                 unit\thingy\tileset\AshWorld\HASRoc02.grp         1 frames
+[603] 2/5 Ash                                 unit\thingy\tileset\AshWorld\HASRoc03.grp         1 frames
+[604] 2/30 Ash                                unit\thingy\tileset\AshWorld\HASRoc04.grp         1 frames
+[605] 2/28 Ash                                unit\thingy\tileset\AshWorld\HASRoc05.grp         1 frames
+[606] 2/29 Ash                                unit\thingy\tileset\AshWorld\HASRoc06.grp         1 frames
+[607] 4/1 Ash                                 unit\thingy\tileset\AshWorld\RORock01.grp         1 frames
+[608] 4/2 Ash                                 unit\thingy\tileset\AshWorld\RORock02.grp         1 frames
+[609] 4/3 Ash                                 unit\thingy\tileset\AshWorld\RORock03.grp         1 frames
+[610] 4/56 Jungle                             unit\thingy\tileset\Jungle\HDRock01.grp           1 frames
+[611] 4/56 Jungle Shadow                      unit\thingy\tileset\Jungle\HDRock1s.grp           1 frames
+[612] 4/57 Jungle                             unit\thingy\tileset\Jungle\HDRock02.grp           1 frames
+[613] 4/57 Jungle Shadow                      unit\thingy\tileset\Jungle\HDRock2s.grp           1 frames
+[614] 4/58 Jungle                             unit\thingy\tileset\Jungle\HDRock03.grp           1 frames
+[615] 4/58 Jungle Shadow                      unit\thingy\tileset\Jungle\HDRock3s.grp           1 frames
+[616] 4/59 Jungle                             unit\thingy\tileset\Jungle\HDRock04.grp           1 frames
+[617] 4/59 Jungle Shadow                      unit\thingy\tileset\Jungle\HDRock4s.grp           1 frames
+[618] 9/5 Jungle                              unit\thingy\tileset\Jungle\JUbush01.grp           1 frames
+[619] 9/5 Jungle Shadow                       unit\thingy\tileset\Jungle\JUbush1S.grp           1 frames
+[620] 9/6 Jungle                              unit\thingy\tileset\Jungle\JUbush03.grp           1 frames
+[621] 9/6 Jungle Shadow                       unit\thingy\tileset\Jungle\JUbush3s.grp           1 frames
+[622] 9/7 Jungle                              unit\thingy\tileset\Jungle\JUbush05.grp           1 frames
+[623] 9/7 Jungle Shadow                       unit\thingy\tileset\Jungle\JUbush5s.grp           1 frames
+[624] 4/51 Jungle                             unit\thingy\tileset\Jungle\LDtree01.grp           1 frames
+[625] 4/51 Jungle Shadow                      unit\thingy\tileset\Jungle\LDtree1s.grp           1 frames
+[626] 4/52 Jungle                             unit\thingy\tileset\Jungle\LDtree02.grp           1 frames
+[627] 4/52 Jungle Shadow                      unit\thingy\tileset\Jungle\LDtree2s.grp           1 frames
+[628] 4/54 Jungle                             unit\thingy\tileset\Jungle\LDtree03.grp           1 frames
+[629] 4/54 Jungle Shadow                      unit\thingy\tileset\Jungle\LDtree3s.grp           1 frames
+[630] 4/53 Jungle                             unit\thingy\tileset\Jungle\LDtree04.grp           1 frames
+[631] 4/53 Jungle Shadow                      unit\thingy\tileset\Jungle\LDtree4s.grp           1 frames
+[632] 9/1 Jungle                              unit\thingy\tileset\Jungle\tree01.grp             1 frames
+[633] 9/1 Jungle Shadow                       unit\thingy\tileset\Jungle\tree1sha.grp           1 frames
+[634] 9/2 Jungle                              unit\thingy\tileset\Jungle\tree02.grp             1 frames
+[635] 9/2 Jungle Shadow                       unit\thingy\tileset\Jungle\tree2sha.grp           1 frames
+[636] 9/3 Jungle                              unit\thingy\tileset\Jungle\tree03.grp             1 frames
+[637] 9/3 Jungle Shadow                       unit\thingy\tileset\Jungle\tree3sha.grp           1 frames
+[638] 9/4 Jungle                              unit\thingy\tileset\Jungle\tree04.grp             1 frames
+[639] 9/4 Jungle Shadow                       unit\thingy\tileset\Jungle\tree4sha.grp           1 frames
+[640] 4/12 Jungle                             unit\thingy\tileset\Jungle\dd025.grp              1 frames
+[641] 4/13 Jungle                             unit\thingy\tileset\Jungle\dd026.grp              1 frames
+[642] 4/1 Jungle                              unit\thingy\tileset\Jungle\dd027.grp              1 frames
+[643] 4/3 Jungle                              unit\thingy\tileset\Jungle\dd028.grp              1 frames
+[644] 4/2 Jungle                              unit\thingy\tileset\Jungle\dd029.grp              1 frames
+[645] 4/5 Jungle                              unit\thingy\tileset\Jungle\dd030.grp              1 frames
+[646] 4/4 Jungle                              unit\thingy\tileset\Jungle\dd031.grp              1 frames
+[647] 4/9 Jungle                              unit\thingy\tileset\Jungle\dd055.grp              1 frames
+[648] 4/10 Jungle                             unit\thingy\tileset\Jungle\dd056.grp              1 frames
+[649] 5/5 Jungle                              unit\thingy\tileset\Jungle\dd075.grp              1 frames
+[650] 5/7 Jungle                              unit\thingy\tileset\Jungle\dd076.grp              1 frames
+[651] 5/6 Jungle                              unit\thingy\tileset\Jungle\dd077.grp              1 frames
+[652] 5/9 Jungle                              unit\thingy\tileset\Jungle\dd078.grp              1 frames
+[653] 5/8 Jungle                              unit\thingy\tileset\Jungle\dd079.grp              1 frames
+[654] 4/6 Jungle                              unit\thingy\tileset\Jungle\dd080.grp              1 frames
+[655] 4/7 Jungle                              unit\thingy\tileset\Jungle\dd081.grp              1 frames
+[656] 4/17 Jungle                             unit\thingy\tileset\Jungle\dd091.grp              1 frames
+[657] 13/4 Jungle                             unit\thingy\tileset\Jungle\dd203.grp              1 frames
+[658] 11/5 Jungle                             unit\thingy\tileset\Jungle\dd204.grp              1 frames
+[659] 11/6 Jungle                             unit\thingy\tileset\Jungle\dd205.grp              1 frames
+[660] 11/7 Jungle                             unit\thingy\tileset\Jungle\dd206.grp              1 frames
+[661] 11/8 Jungle                             unit\thingy\tileset\Jungle\dd207.grp              1 frames
+[662] 11/10 Jungle                            unit\thingy\tileset\Jungle\dd209.grp              1 frames
+[663] 11/11 Jungle                            unit\thingy\tileset\Jungle\dd210.grp              1 frames
+[664] 11/12 Jungle                            unit\thingy\tileset\Jungle\dd211.grp              1 frames
+[665] 7/4 Platform                            unit\thingy\tileset\Platform\Dish01.grp           1 frames
+[666] 7/4 Platform Shadow                     unit\thingy\tileset\Platform\Dish1Sha.grp         1 frames
+[667] 7/5 Platform                            unit\thingy\tileset\Platform\Dish02.grp           1 frames
+[668] 7/5 Platform Shadow                     unit\thingy\tileset\Platform\Dish2Sha.grp         1 frames
+[669] 7/6 Platform                            unit\thingy\tileset\Platform\Dish03.grp           1 frames
+[670] 7/6 Platform Shadow                     unit\thingy\tileset\Platform\Dish3Sha.grp         1 frames
+[671] 7/1 Platform                            unit\thingy\tileset\Platform\Glob01.grp           1 frames
+[672] 7/1 Platform Shadow                     unit\thingy\tileset\Platform\Glob1Sha.grp         1 frames
+[673] 7/2 Platform                            unit\thingy\tileset\Platform\Glob02.grp           1 frames
+[674] 7/2 Platform Shadow                     unit\thingy\tileset\Platform\Glob2Sha.grp         1 frames
+[675] 7/3 Platform                            unit\thingy\tileset\Platform\Glob03.grp           1 frames
+[676] 7/3 Platform Shadow                     unit\thingy\tileset\Platform\Glob3Sha.grp         1 frames
+[677] 7/9 Platform                            unit\thingy\tileset\Platform\Towr01.grp           1 frames
+[678] 7/10 Platform                           unit\thingy\tileset\Platform\Towr02.grp           1 frames
+[679] 7/8 Platform                            unit\thingy\tileset\Platform\tree01.grp           6 frames
+[680] 7/7 Platform                            unit\thingy\tileset\Platform\tree02.grp           8 frames
+[681] 7/26 Platform                           unit\thingy\tileset\Platform\LBSign01.grp         1 frames
+[682] 7/24 Platform                           unit\thingy\tileset\Platform\LBSign02.grp         1 frames
+[683] 7/28 Platform                           unit\thingy\tileset\Platform\LBSign03.grp         1 frames
+[684] 7/27 Platform                           unit\thingy\tileset\Platform\LBSign04.grp         1 frames
+[685] 7/25 Platform                           unit\thingy\tileset\Platform\LBSign05.grp         1 frames
+[686] 7/29 Platform                           unit\thingy\tileset\Platform\LBSign06.grp         1 frames
+[687] 7/30 Platform                           unit\thingy\tileset\Platform\LBSign07.grp         1 frames
+[688] 7/31 Platform                           unit\thingy\tileset\Platform\LBSign08.grp         1 frames
+[689] 12/1 Platform                           unit\thingy\tileset\Platform\SPThin01.grp         1 frames
+[690] 9/27 Platform                           unit\thingy\tileset\Platform\refinery.grp         1 frames
+[691] 5/54 Badlands                           unit\thingy\tileset\Badlands\HDRock01.grp         1 frames
+[692] 5/54 Badlands Shadow                    unit\thingy\tileset\Badlands\HDRock1S.grp         1 frames
+[693] 5/55 Badlands                           unit\thingy\tileset\Badlands\HDRock02.grp         1 frames
+[694] 5/55 Badlands Shadow                    unit\thingy\tileset\Badlands\HDRock2S.grp         1 frames
+[695] 5/56 Badlands                           unit\thingy\tileset\Badlands\HDRock03.grp         1 frames
+[696] 5/56 Badlands Shadow                    unit\thingy\tileset\Badlands\HDRock3S.grp         1 frames
+[697] 5/57 Badlands                           unit\thingy\tileset\Badlands\HDRock04.grp         1 frames
+[698] 5/57 Badlands Shadow                    unit\thingy\tileset\Badlands\HDRock4S.grp         1 frames
+[699] 6/16 Badlands                           unit\thingy\tileset\Badlands\HDRock05.grp         1 frames
+[700] 6/17 Badlands                           unit\thingy\tileset\Badlands\HDRock06.grp         1 frames
+[701] 6/20 Badlands                           unit\thingy\tileset\Badlands\HDRock07.grp         1 frames
+[702] 6/21 Badlands                           unit\thingy\tileset\Badlands\HDRock08.grp         1 frames
+[703] 5/10 Badlands                           unit\thingy\tileset\Badlands\HDVent01.grp         1 frames
+[704] 5/50 Badlands                           unit\thingy\tileset\Badlands\HDTree01.grp         1 frames
+[705] 5/50 Badlands Shadow                    unit\thingy\tileset\Badlands\LDTree1S.grp         1 frames
+[706] 5/52 Badlands                           unit\thingy\tileset\Badlands\HDTree02.grp         1 frames
+[707] 5/52 Badlands Shadow                    unit\thingy\tileset\Badlands\LDTree2S.grp         1 frames
+[708] 5/53 Badlands                           unit\thingy\tileset\Badlands\HDTree03.grp         1 frames
+[709] 5/53 Badlands Shadow                    unit\thingy\tileset\Badlands\LDTree3S.grp         1 frames
+[710] 5/51 Badlands                           unit\thingy\tileset\Badlands\HDTree04.grp         1 frames
+[711] 5/51 Badlands Shadow                    unit\thingy\tileset\Badlands\LDTree4S.grp         1 frames
+[712] 6/3 Badlands                            unit\thingy\tileset\Badlands\HGTree01.grp         1 frames
+[713] 11/3 Badlands                           unit\thingy\tileset\Badlands\LCShop01.grp         1 frames
+[714] 11/8 Badlands                           unit\thingy\tileset\Badlands\LCShop02.grp         1 frames
+[715] 11/6 Badlands                           unit\thingy\tileset\Badlands\LCShop03.grp         1 frames
+[716] 11/7 Badlands                           unit\thingy\tileset\Badlands\LCShop04.grp         1 frames
+[717] 11/9 Badlands                           unit\thingy\tileset\Badlands\LCShop05.grp         1 frames
+[718] 11/10 Badlands                          unit\thingy\tileset\Badlands\LCShop06.grp         1 frames
+[719] 11/11 Badlands                          unit\thingy\tileset\Badlands\LCShop07.grp         1 frames
+[720] 11/12 Badlands                          unit\thingy\tileset\Badlands\LCShop08.grp         1 frames
+[721] 11/13 Badlands                          unit\thingy\tileset\Badlands\LCShop09.grp         1 frames
+[722] 11/14 Badlands                          unit\thingy\tileset\Badlands\LCShopAA.grp         1 frames
+[723] 1/13 Badlands                           unit\thingy\tileset\Badlands\LCSign01.grp         1 frames
+[724] 1/9 Badlands                            unit\thingy\tileset\Badlands\LCSign02.grp         1 frames
+[725] 1/11 Badlands                           unit\thingy\tileset\Badlands\LCSign03.grp         1 frames
+[726] 1/14 Badlands                           unit\thingy\tileset\Badlands\LCSign04.grp         1 frames
+[727] 1/10 Badlands                           unit\thingy\tileset\Badlands\LCSign05.grp         1 frames
+[728] 1/12 Badlands                           unit\thingy\tileset\Badlands\LCSign06.grp         1 frames
+[729] 1/15 Badlands                           unit\thingy\tileset\Badlands\LCSign07.grp         1 frames
+[730] 1/7 Badlands                            unit\thingy\tileset\Badlands\LCSign08.grp         1 frames
+[731] 1/5 Badlands                            unit\thingy\tileset\Badlands\LCSign09.grp         1 frames
+[732] 1/16 Badlands                           unit\thingy\tileset\Badlands\LCSignAA.grp         1 frames
+[733] 1/8 Badlands                            unit\thingy\tileset\Badlands\LCSignBB.grp         1 frames
+[734] 1/6 Badlands                            unit\thingy\tileset\Badlands\LCSignCC.grp         1 frames
+[735] Floor Gun Trap                          unit\thingy\tileset\install\CLPlate2.grp         12 frames
+[736] Floor Missile Trap                      unit\thingy\tileset\install\CLPlate1.grp         12 frames
+[737] Floor Missile Trap Turret               unit\thingy\tileset\install\CLPlat1T.grp         17 frames
+[738] Wall Missile Trap                       unit\thingy\tileset\install\DCGun1.grp            7 frames
+[739] Wall Missile Trap2                      unit\thingy\tileset\install\DCGun1.grp            7 frames
+[740] Wall Flame Trap                         unit\thingy\tileset\install\DCGun2.grp           11 frames
+[741] Wall Flame Trap2                        unit\thingy\tileset\install\DCGun2.grp           11 frames
+[742] Left Upper Level Door                   unit\thingy\tileset\install\CRDoor1.grp          10 frames
+[743] Right Upper Level Door                  unit\thingy\tileset\install\CRDoor1.grp          10 frames
+[744] 4/15 Installation1                      unit\thingy\tileset\install\DCFan1.grp            8 frames
+[745] 4/15 Installation2                      unit\thingy\tileset\install\DCFan1.grp            8 frames
+[746] 3/9 Installation                        unit\thingy\tileset\install\DICran1.grp           1 frames
+[747] 3/10 Installation                       unit\thingy\tileset\install\DICran2.grp           1 frames
+[748] 3/11 Installation                       unit\thingy\tileset\install\DICran3.grp           1 frames
+[749] 3/12 Installation                       unit\thingy\tileset\install\DICran4.grp           1 frames
+[750] Substructure Left Door                  unit\thingy\tileset\install\DIDoor1.grp          10 frames
+[751] Substructure Right Door                 unit\thingy\tileset\install\DIDoor1.grp          10 frames
+[752] 3/1 Installation                        unit\thingy\tileset\install\DIGear1.grp           6 frames
+[753] 3/2 Installation                        unit\thingy\tileset\install\DIGear2.grp           6 frames
+[754] Substructure Opening Hole               unit\thingy\tileset\install\DIHatc1.grp          10 frames
+[755] 7/21 Twilight                           unit\thingy\tileset\twilight\Ldarch.grp           1 frames
+[756] Unknown Twilight                        unit\thingy\tileset\twilight\Lddrill.grp          3 frames
+[757] 7/13 Twilight                           unit\thingy\tileset\twilight\Ldxel01.grp          3 frames
+[758] 7/14 Twilight                           unit\thingy\tileset\twilight\Ldxel02.grp          3 frames
+[759] 7/16 Twilight                           unit\thingy\tileset\twilight\Ldxel03.grp          1 frames
+[760] 7/15 Twilight                           unit\thingy\tileset\twilight\Ldxel04.grp          1 frames
+[761] 7/19 Twilight                           unit\thingy\tileset\twilight\Ldxel05.grp          1 frames
+[762] 7/20 Twilight                           unit\thingy\tileset\twilight\Ldxel06.grp          1 frames
+[763] 7/17 Twilight                           unit\thingy\tileset\twilight\Ldxeltur.grp         9 frames
+[764] 6/1 Twilight                            unit\thingy\tileset\twilight\JTree01.grp          1 frames
+[765] 6/2 Twilight                            unit\thingy\tileset\twilight\JTree02.grp          1 frames
+[766] 6/3 Twilight                            unit\thingy\tileset\twilight\JTree03.grp          1 frames
+[767] 6/4 Twilight                            unit\thingy\tileset\twilight\JTree04.grp          1 frames
+[768] 6/5 Twilight                            unit\thingy\tileset\twilight\JTree05.grp          1 frames
+[769] 8/3 Twilight1                           unit\thingy\tileset\twilight\rstatue.grp          1 frames
+[770] 8/3 Twilight2                           unit\thingy\tileset\twilight\rstatue.grp          1 frames
+[771] 9/29 Ice                                unit\thingy\tileset\ice\HDbld01.grp               1 frames
+[772] 9/29 Ice Shadow                         unit\thingy\tileset\ice\SHDbld01.grp              1 frames
+[773] 9/28 Ice                                unit\thingy\tileset\ice\HDbld02.grp               1 frames
+[774] 9/28 Ice Shadow                         unit\thingy\tileset\ice\SHDbld02.grp              1 frames
+[775] 12/38 Ice                               unit\thingy\tileset\ice\HDbld03.grp               1 frames
+[776] 12/38 Ice Shadow                        unit\thingy\tileset\ice\SHDbld03.grp              1 frames
+[777] 12/37 Ice                               unit\thingy\tileset\ice\HDbld04.grp               1 frames
+[778] 12/37 Ice Shadow                        unit\thingy\tileset\ice\SHDbld04.grp              1 frames
+[779] 12/33 Ice1                              unit\thingy\tileset\ice\HDradarl.grp              1 frames
+[780] 12/33 Ice1 Shadow                       unit\thingy\tileset\ice\SHDradrl.grp              1 frames
+[781] 9/21 Ice                                unit\thingy\tileset\ice\HDradarR.grp              1 frames
+[782] 9/21 Ice Shadow                         unit\thingy\tileset\ice\SHDradrR.grp              1 frames
+[783] 9/15 Ice                                unit\thingy\tileset\ice\HDRock01.grp              1 frames
+[784] 9/15 Ice Shadow                         unit\thingy\tileset\ice\SHDRck01.grp              1 frames
+[785] 9/16 Ice                                unit\thingy\tileset\ice\HDRock02.grp              1 frames
+[786] 9/16 Ice Shadow                         unit\thingy\tileset\ice\SHDRck02.grp              1 frames
+[787] Unknown787                              unit\thingy\tileset\ice\HDSTre01.grp              1 frames
+[788] Unknown788                              unit\thingy\tileset\ice\HDSTre02.grp              1 frames
+[789] 12/9 Ice1                               unit\thingy\tileset\ice\HDSTre03.grp              1 frames
+[790] 12/10 Ice1                              unit\thingy\tileset\ice\HDSTre04.grp              1 frames
+[791] 9/24 Ice                                unit\thingy\tileset\ice\HDSpire.grp               1 frames
+[792] 9/24 Ice Shadow                         unit\thingy\tileset\ice\SHDSpire.grp              1 frames
+[793] 9/23 Ice                                unit\thingy\tileset\ice\HDTwr01.grp               1 frames
+[794] 9/23 Ice Shadow                         unit\thingy\tileset\ice\SHDTwr01.grp              1 frames
+[795] Unknown795                              unit\thingy\tileset\ice\HDTwr02.grp               1 frames
+[796] Unknown Ice Shadow                      unit\thingy\tileset\ice\SHDTwr02.grp              1 frames
+[797] 12/7 Ice                                unit\thingy\tileset\ice\LDBTre01.grp              1 frames
+[798] 12/7 Ice Shadow                         unit\thingy\tileset\ice\SLDBTre1.grp              1 frames
+[799] 12/8 Ice                                unit\thingy\tileset\ice\LDBTre02.grp              1 frames
+[800] 12/8 Ice Shadow                         unit\thingy\tileset\ice\SLDBTre2.grp              1 frames
+[801] 12/9 Ice2                               unit\thingy\tileset\ice\LDBTre03.grp              1 frames
+[802] 12/9 Ice2 Shadow                        unit\thingy\tileset\ice\SLDBTre3.grp              1 frames
+[803] 12/10 Ice2                              unit\thingy\tileset\ice\LDBTre04.grp              1 frames
+[804] 12/10 Ice2 Shadow                       unit\thingy\tileset\ice\SLDBTre4.grp              1 frames
+[805] 12/40 Ice                               unit\thingy\tileset\ice\LDbld01.grp               1 frames
+[806] 12/40 Ice Shadow                        unit\thingy\tileset\ice\SLDbld01.grp              1 frames
+[807] 12/41 Ice                               unit\thingy\tileset\ice\LDbld02.grp               1 frames
+[808] 12/41 Ice Shadow                        unit\thingy\tileset\ice\SLDbld02.grp              1 frames
+[809] 12/42 Ice                               unit\thingy\tileset\ice\LDComm.grp                1 frames
+[810] 12/42 Ice Shadow                        unit\thingy\tileset\ice\SLDComm.grp               1 frames
+[811] 12/5 Ice                                unit\thingy\tileset\ice\LDDtre01.grp              1 frames
+[812] 12/5 Ice Shadow                         unit\thingy\tileset\ice\SLDDtre1.grp              1 frames
+[813] 12/6 Ice                                unit\thingy\tileset\ice\LDDtre02.grp              1 frames
+[814] 12/6 Ice Shadow                         unit\thingy\tileset\ice\SLDDtre2.grp              1 frames
+[815] 12/36 Ice                               unit\thingy\tileset\ice\LDDish.grp                1 frames
+[816] 12/36 Ice Shadow                        unit\thingy\tileset\ice\SLDDish.grp               1 frames
+[817] 12/32 Ice                               unit\thingy\tileset\ice\LDRdr01.grp               1 frames
+[818] 12/32 Ice Shadow                        unit\thingy\tileset\ice\SLDRdr01.grp              1 frames
+[819] 12/33 Ice2                              unit\thingy\tileset\ice\LDRdr02.grp               1 frames
+[820] 12/33 Ice2 Shadow                       unit\thingy\tileset\ice\SLDRdr02.grp              1 frames
+[821] 12/34 Ice                               unit\thingy\tileset\ice\LDRdr03.grp               1 frames
+[822] 12/34 Ice Shadow                        unit\thingy\tileset\ice\SLDRdr03.grp              1 frames
+[823] 12/24 Ice1                              unit\thingy\tileset\ice\LDRck01.grp               1 frames
+[824] 12/24 Ice1 Shadow                       unit\thingy\tileset\ice\SLDRck01.grp              1 frames
+[825] 12/25 Ice1                              unit\thingy\tileset\ice\LDRck02.grp               1 frames
+[826] 12/25 Ice1 Shadow                       unit\thingy\tileset\ice\SLDRck02.grp              1 frames
+[827] 12/30 Ice1                              unit\thingy\tileset\ice\HDPipes.grp               1 frames
+[828] 12/30 Ice1 Shadow                       unit\thingy\tileset\ice\SHDPipes.grp              1 frames
+[829] 12/31 Ice                               unit\thingy\tileset\ice\LDthing.grp               1 frames
+[830] 12/31 Ice Shadow                        unit\thingy\tileset\ice\SLDthing.grp              1 frames
+[831] 12/20 Ice                               unit\thingy\tileset\ice\LDsmrock.grp              1 frames
+[832] 12/30 Ice2                              unit\thingy\tileset\ice\HDPipes.grp               1 frames
+[833] 12/30 Ice2 Shadow                       unit\thingy\tileset\ice\SHDPipes.grp              1 frames
+[834] 9/22 Ice                                unit\thingy\tileset\ice\HDRadr02.grp              1 frames
+[835] 9/22 Ice Shadow                         unit\thingy\tileset\ice\SHDRadr2.grp              1 frames
+[836] 12/24 Ice2                              unit\thingy\tileset\ice\LDRck01.grp               1 frames
+[837] 12/24 Ice2 Shadow                       unit\thingy\tileset\ice\SLDRck01.grp              1 frames
+[838] 12/25 Ice2                              unit\thingy\tileset\ice\LDRck02.grp               1 frames
+[839] 12/25 Ice2 Shadow                       unit\thingy\tileset\ice\SLDRck02.grp              1 frames
+[840] Unknown840                              unit\thingy\tileset\ice\HDRadr02.grp              1 frames
+[841] 4/1 Ice                                 unit\thingy\tileset\ice\JGant1.grp                1 frames
+[842] 6/1 Ice                                 unit\thingy\tileset\ice\JGant1.grp                1 frames
+[843] 5/6 Ice                                 unit\thingy\tileset\ice\RJBTree1.grp              1 frames
+[844] 5/6 Ice Shadow                          unit\thingy\tileset\ice\sRJBTre1.grp              1 frames
+[845] 5/7 Ice                                 unit\thingy\tileset\ice\RJBTree2.grp              1 frames
+[846] 5/7 Ice Shadow                          unit\thingy\tileset\ice\sRJBTre2.grp              1 frames
+[847] 5/8 Ice                                 unit\thingy\tileset\ice\RJBTree3.grp              1 frames
+[848] 5/8 Ice Shadow                          unit\thingy\tileset\ice\sRJBTre3.grp              1 frames
+[849] 5/9 Ice                                 unit\thingy\tileset\ice\RJBTree4.grp              1 frames
+[850] 5/9 Ice Shadow                          unit\thingy\tileset\ice\sRJBTre4.grp              1 frames
+[851] 10/10 Desert1                           unit\thingy\tileset\desert\HDBANT.grp             6 frames
+[852] 10/12 Desert1                           unit\thingy\tileset\desert\HDBBROKE.grp           1 frames
+[853] 10/12 Desert1 Shadow                    unit\thingy\tileset\desert\SHDBBRKE.grp           1 frames
+[854] 10/8 Desert1                            unit\thingy\tileset\desert\HDBGAS.grp             1 frames
+[855] 10/8 Desert1 Shadow                     unit\thingy\tileset\desert\SHDBGAS.grp            1 frames
+[856] 10/9 Desert1                            unit\thingy\tileset\desert\HDBMED.grp             1 frames
+[857] 10/9 Desert1 Shadow                     unit\thingy\tileset\desert\SHDBMED.grp            1 frames
+[858] 6/10 Desert                             unit\thingy\tileset\desert\HDBMOSS.grp            1 frames
+[859] 6/10 Desert Shadow                      unit\thingy\tileset\desert\SHDBMOSS.grp           1 frames
+[860] 6/13 Desert1                            unit\thingy\tileset\desert\HDBTENT.grp            1 frames
+[861] 6/13 Desert1 Shadow                     unit\thingy\tileset\desert\SHDBTENT.grp           1 frames
+[862] Unknown Desert                          unit\thingy\tileset\desert\HDPLNT03.grp           1 frames
+[863] Unknown Desert Shadow                   unit\thingy\tileset\desert\SHDPLNT3.grp           1 frames
+[864] 10/12 Desert2                           unit\thingy\tileset\desert\JGBROKE.grp            1 frames
+[865] 10/12 Desert2 Shadow                    unit\thingy\tileset\desert\SJGBROKE.grp           1 frames
+[866] 10/9 Desert2                            unit\thingy\tileset\desert\JGBGAS.grp             1 frames
+[867] 10/9 Desert2 Shadow                     unit\thingy\tileset\desert\SJGBGAS.grp            1 frames
+[868] 10/10 Desert2                           unit\thingy\tileset\desert\JGBGEN.grp             1 frames
+[869] 10/10 Desert2 Shadow                    unit\thingy\tileset\desert\SJGBGEN.grp            1 frames
+[870] 10/11 Desert                            unit\thingy\tileset\desert\JGBSGN.grp             1 frames
+[871] 10/11 Desert Shadow                     unit\thingy\tileset\desert\SJGBSGN.grp            1 frames
+[872] 10/14 Desert                            unit\thingy\tileset\desert\JGBTENT.grp            1 frames
+[873] 10/14 Desert Shadow                     unit\thingy\tileset\desert\SJGBTENT.grp           1 frames
+[874] 10/41 Desert                            unit\thingy\tileset\desert\JGBCOMM.grp            1 frames
+[875] 10/41 Desert Shadow                     unit\thingy\tileset\desert\SJGBCOMM.grp           1 frames
+[876] 10/39 Desert                            unit\thingy\tileset\desert\JGBFACT.grp            1 frames
+[877] 1/39 Desert Shadow                      unit\thingy\tileset\desert\SJGBFACT.grp           1 frames
+[878] 10/8 Desert2                            unit\thingy\tileset\desert\JGBRED.grp             1 frames
+[879] 10/8 Desert2 Shadow                     unit\thingy\tileset\desert\SJGBRED.grp            1 frames
+[880] 10/6 Desert                             unit\thingy\tileset\desert\JGPLNT01.grp           1 frames
+[881] 10/7 Desert                             unit\thingy\tileset\desert\JGPLNT02.grp           1 frames
+[882] 10/7 Desert Shadow                      unit\thingy\tileset\desert\SJGPLNT2.grp           1 frames
+[883] 4/6 Desert                              unit\thingy\tileset\desert\LDBAZ.grp              1 frames
+[884] 4/6 Desert Shadow                       unit\thingy\tileset\desert\SLDBAZ.grp             1 frames
+[885] 4/11 Desert                             unit\thingy\tileset\desert\LDBGAS.grp             1 frames
+[886] 4/11 Desert Shadow                      unit\thingy\tileset\desert\SLDBGAS.grp            1 frames
+[887] 4/10 Desert                             unit\thingy\tileset\desert\LDBGREN.grp            1 frames
+[888] 4/10 Desert Shadow                      unit\thingy\tileset\desert\SLDBGREN.grp           1 frames
+[889] 4/9 Desert                              unit\thingy\tileset\desert\LDBNEON.grp            3 frames
+[890] 4/7 Desert                              unit\thingy\tileset\desert\LDBSUKY.grp            1 frames
+[891] 4/7 Desert Shadow                       unit\thingy\tileset\desert\SLDBSUKY.grp           1 frames
+[892] 4/12 Desert                             unit\thingy\tileset\desert\LDBTENT.grp            1 frames
+[893] 4/12 Desert Shadow                      unit\thingy\tileset\desert\SLDBTENT.grp           1 frames
+[894] 4/8 Desert                              unit\thingy\tileset\desert\Ldneon.grp             3 frames
+[895] 4/13 Desert                             unit\thingy\tileset\desert\HDLbox01.grp           1 frames
+[896] 4/13 Desert Shadow                      unit\thingy\tileset\desert\SHDLbox1.grp           1 frames
+[897] 4/17 Desert                             unit\thingy\tileset\desert\HDMachn2.grp           1 frames
+[898] 4/15 Desert1                            unit\thingy\tileset\desert\LDLbox01.grp           1 frames
+[899] 4/15 Desert1 Shadow                     unit\thingy\tileset\desert\SLDLbox1.grp           1 frames
+[900] 10/23 Desert                            unit\thingy\tileset\desert\LDMachn1.grp           1 frames
+[901] 10/23 Desert Shadow                     unit\thingy\tileset\desert\SLDMchn1.grp           1 frames
+[902] 10/5 Desert                             unit\thingy\tileset\desert\LDPlnt04.grp           1 frames
+[903] 10/5 Desert Shadow                      unit\thingy\tileset\desert\SLDPlnt4.grp           1 frames
+[904] 6/13 Desert2                            unit\thingy\tileset\desert\HDLbox01.grp           1 frames
+[905] 6/13 Desert2 Shadow                     unit\thingy\tileset\desert\SHDLbox1.grp           1 frames
+[906] 6/20 Desert                             unit\thingy\tileset\desert\HDMachn2.grp           1 frames
+[907] 4/15 Desert2                            unit\thingy\tileset\desert\LDLbox01.grp           1 frames
+[908] 4/15 Desert2 Shadow                     unit\thingy\tileset\desert\SLDLbox1.grp           1 frames
+[909] 8/23 Desert                             unit\thingy\tileset\desert\LDMachn1.grp           1 frames
+[910] 8/23 Desert Shadow                      unit\thingy\tileset\desert\SLDMchn1.grp           1 frames
+[911] 12/1 Desert Overlay                     unit\thingy\tileset\desert\Tgas.grp              11 frames
+[912] 11/3 Desert                             unit\thingy\tileset\desert\sarlacc.grp            8 frames
+[913] Unknown913                              unit\protoss\scout.grp                           34 frames
+[914] Lurker Egg                              unit\zerg\Lurkegg.grp                            20 frames
+[915] Devourer                                unit\zerg\devour.grp                            170 frames
+[916] Devourer Shadow                         unit\zerg\devour.grp                            170 frames
+[917] Devourer Birth                          unit\thingy\zDvbirth.grp                         11 frames
+[918] Devourer Death                          unit\zerg\zdvDeath.grp                            1 frames
+[919] Lurker Birth                            unit\zerg\zLubirth.grp                            7 frames
+[920] Lurker Remnants                         unit\zerg\zLurker.grp                           595 frames
+[921] Lurker                                  unit\zerg\Zlurker.grp                           595 frames
+[922] Lurker Shadow                           unit\zerg\zZluShad.grp                          425 frames
+[923] Overmind Cocoon                         unit\zerg\XOvermnd.grp                            4 frames
+[924] Overmind Cocoon Shadow                  unit\zerg\ZovShad.grp                             4 frames
+[925] Dark Archon Energy                      unit\protoss\darchn.grp                          27 frames
+[926] Dark Archon Being                       unit\protoss\darchnT.grp                        187 frames
+[927] Dark Archon Swirl                       unit\protoss\darchnT2.grp                        15 frames
+[928] Dark Archon Death                       unit\protoss\PdaDeath.grp                        15 frames
+[929] Corsair                                 unit\protoss\corsair.grp                         85 frames
+[930] Corsair Shadow                          unit\protoss\corsair.grp                         85 frames
+[931] Corsair Engines                         unit\thingy\pcsGlow.grp                          34 frames
+[932] Neutron Flare Overlay (Unused)          unit\thingy\elbFireC.grp                         68 frames
+[933] Dark Templar (Unit)                     unit\protoss\dtemplar.grp                       306 frames
+[934] Warp Gate                               unit\protoss\XwarpGat.grp                         1 frames
+[935] Warp Gate Shadow                        unit\protoss\pwgShad.grp                          1 frames
+[936] Warp Gate Overlay                       unit\protoss\XwarpFir.grp                         6 frames
+[937] Xel'Naga Temple                         unit\protoss\XelTempl.grp                         1 frames
+[938] Xel'Naga Temple Shadow                  unit\protoss\pxtShad.grp                          1 frames
+[939] Valkyrie                                unit\terran\bomber.grp                           17 frames
+[940] Valkyrie Shadow                         unit\terran\bomber.grp                           17 frames
+[941] Valkyrie Engines                        unit\thingy\tbmGlow.grp                          34 frames
+[942] Valkyrie Engines2 (Unused)              unit\thingy\tbmGlow.grp                          34 frames
+[943] Valkyrie Afterburners (Unused)          unit\thingy\tbmAfter.grp                         34 frames
+[944] Medic                                   unit\terran\medic.grp                           230 frames
+[945] Medic Shadow                            unit\terran\tmeShad.grp                         323 frames
+[946] Medic Remnants                          unit\terran\tmeDeath.grp                          4 frames
+[947] Psi Disrupter                           unit\neutral\PsiDisr.grp                          1 frames
+[948] Psi Disrupter Shadow                    unit\neutral\tpdShad.grp                          1 frames
+[949] Power Generator                         unit\neutral\Generate.grp                         7 frames
+[950] Power Generator Shadow                  unit\neutral\tgnShad.grp                          7 frames
+[951] Disruption Web                          unit\thingy\Disrupt.grp                          11 frames
+[952] Scantid (Desert)                        unit\neutral\Kcritter.grp                       212 frames
+[953] Scantid (Desert) Shadow                 unit\neutral\nckShad.grp                        212 frames
+[954] Kakaru (Twilight)                       unit\neutral\Scritter.grp                       214 frames
+[955] Kakaru (Twilight) Shadow                unit\neutral\Scritter.grp                       214 frames
+[956] Ursadon (Ice)                           unit\neutral\Icritter.grp                       144 frames
+[957] Ursadon (Ice) Shadow                    unit\neutral\ncicShad.grp                       144 frames
+[958] Uraj                                    unit\neutral\Uraj.grp                            17 frames
+[959] Khalis                                  unit\neutral\Khalis.grp                          17 frames
+[960] Halo Rockets Trail                      unit\thingy\bsmoke.grp                            8 frames
+[961] Subterranean Spines                     unit\bullet\Spike.grp                             7 frames
+[962] Corrosive Acid Shot                     unit\thingy\ZDvPuke.grp                          68 frames
+[963] Corrosive Acid Hit                      unit\thingy\ZDvHit.grp                           10 frames
+[964] Neutron Flare                           unit\thingy\PcsSplsh.grp                          7 frames
+[965] Halo Rockets                            unit\bullet\SMmissle.grp                         17 frames
+[966] Optical Flare Grenade                   unit\bullet\grenade.grp                           4 frames
+[967] Restoration Hit (Small)                 unit\thingy\tCureSml.grp                         17 frames
+[968] Restoration Hit (Medium)                unit\thingy\tCureMed.grp                         17 frames
+[969] Restoration Hit (Large)                 unit\thingy\tCureLrg.grp                         17 frames
+[970] Unused Heal (Small)                     unit\thingy\tmeHealM.grp                         14 frames
+[971] Unused Heal (Medium)                    unit\thingy\tmeHealM.grp                         14 frames
+[972] Unused Heal (Large)                     unit\thingy\tmeHealL.grp                         15 frames
+[973] Mind Control Hit (Small)                unit\thingy\PDaMyoSm.grp                         20 frames
+[974] Mind Control Hit (Medium)               unit\thingy\PDaMyoMd.grp                         20 frames
+[975] Mind Control Hit (Large)                unit\thingy\PDaMyoLg.grp                         20 frames
+[976] Optical Flare Hit (Small)               unit\thingy\TmeFlshS.grp                          9 frames
+[977] Optical Flare Hit (Medium)              unit\thingy\TmeFlshM.grp                          9 frames
+[978] Optical Flare Hit (Large)               unit\thingy\TmeFlshL.grp                         10 frames
+[979] Feedback (Small)                        unit\thingy\PDaPsySm.grp                         22 frames
+[980] Feedback (Medium)                       unit\thingy\PDaPsyMd.grp                         22 frames
+[981] Feedback Hit (Large)                    unit\thingy\PDaPsyLg.grp                         22 frames
+[982] Maelstorm Overlay (Small)               unit\thingy\PDaParSm.grp                         25 frames
+[983] Maelstorm Overlay (Medium)              unit\thingy\PDaParMd.grp                         25 frames
+[984] Maelstorm Overlay (Large)               unit\thingy\PDaParLg.grp                         25 frames
+[985] Subterranean Spines Hit                 unit\zerg\zmarker.grp                             1 frames
+[986] Acid Spores (1) Overlay (Small)         unit\thingy\ZdvGooS.grp                         272 frames
+[987] Acid Spores (2-3) Overlay (Small)       unit\thingy\ZdvGooS.grp                         272 frames
+[988] Acid Spores (4-5) Overlay (Small)       unit\thingy\ZdvGooS.grp                         272 frames
+[989] Acid Spores (6-9) Overlay (Small)       unit\thingy\ZdvGooS.grp                         272 frames
+[990] Acid Spores (1) Overlay (Medium)        unit\thingy\ZdvGooM.grp                         272 frames
+[991] Acid Spores (2-3) Overlay (Medium)      unit\thingy\ZdvGooM.grp                         272 frames
+[992] Acid Spores (4-5) Overlay (Medium)      unit\thingy\ZdvGooM.grp                         272 frames
+[993] Acid Spores (6-9) Overlay (Medium)      unit\thingy\ZdvGooM.grp                         272 frames
+[994] Acid Spores (1) Overlay (Large)         unit\thingy\ZdvGooL.grp                         272 frames
+[995] Acid Spores (2-3) Overlay (Large)       unit\thingy\ZdvGooL.grp                         272 frames
+[996] Acid Spores (4-5) Overlay (Large)       unit\thingy\ZdvGooL.grp                         272 frames
+[997] Acid Spores (6-9) Overlay (Large)       unit\thingy\ZdvGooL.grp                         272 frames
+[998] Maelstorm Hit                           unit\thingy\MaelHit.grp                           9 frames
+
